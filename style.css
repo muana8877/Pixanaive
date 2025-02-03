@@ -1,10 +1,10 @@
 @font-face {
   font-family: pixel;
-  src: url(Pixelify_Sans/PixelifySans-VariableFont_wght.ttf);
+  src: url(assets/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: montserrat;
-  src: url(Montserrat/Montserrat-VariableFont_wght.ttf);
+  src: url(/assets/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 /* :root { scroll-behavior: auto !important; } */
 body {
