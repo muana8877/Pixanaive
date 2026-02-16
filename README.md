@@ -64,7 +64,8 @@ This isn't your typical portfolio template. The hero section features a **custom
 
 ## 📸 Preview
 
-![Hero Animation](link-to-gif-or-video)
+https://github.com/user-attachments/assets/773a4a64-d97a-4e4a-86f8-2d4c40d2fdf4
+
 
 *The pixel hero animation that animates each cell individually with GSAP*
 
